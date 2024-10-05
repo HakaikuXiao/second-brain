@@ -1,0 +1,503 @@
+{
+  "nodes": [
+    {
+      "id": "9b7a25bcfa8b501f",
+      "type": "group",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": -178,
+      "y": -520,
+      "width": 3058,
+      "height": 2680,
+      "color": "2",
+      "label": "Modding"
+    },
+    {
+      "id": "31d5f0272f1b6377",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 120,
+      "width": 1021,
+      "height": 480,
+      "color": "1",
+      "label": "Fabric"
+    },
+    {
+      "id": "f4b55fec465930f8",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 320,
+      "y": 960,
+      "width": 2429,
+      "height": 1021,
+      "color": "3",
+      "label": "Quilt"
+    },
+    {
+      "id": "eb2242a1efa6a54b",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": -1600,
+      "width": 1360,
+      "height": 1000,
+      "color": "3",
+      "label": "Dreamcraft"
+    },
+    {
+      "id": "75e794350295658b",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -520,
+      "width": 282,
+      "height": 230,
+      "color": "1",
+      "label": "Java"
+    },
+    {
+      "id": "1e26adb05d4ab95f",
+      "type": "text",
+      "text": "Изучить Java",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": "center",
+        "shape": null
+      },
+      "collapsed": false,
+      "x": -440,
+      "y": -470,
+      "width": 242,
+      "height": 70,
+      "color": "1"
+    },
+    {
+      "id": "c8327e95f0b2f1d5",
+      "type": "text",
+      "text": "Синтаксис",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "collapsed": false,
+      "x": -440,
+      "y": -370,
+      "width": 242,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "0d93fb4b4d204db3",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/QuiltAPI.md",
+      "styleAttributes": {},
+      "x": -18,
+      "y": -290,
+      "width": 340,
+      "height": 300,
+      "color": "2"
+    },
+    {
+      "id": "203ba4e3d33b23f8",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Рабочее пространство.md",
+      "styleAttributes": {},
+      "x": -158,
+      "y": 420,
+      "width": 310,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "173d3bf4eed59e02",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Начало работы.md",
+      "styleAttributes": {},
+      "x": 23,
+      "y": 160,
+      "width": 420,
+      "height": 210,
+      "color": "3"
+    },
+    {
+      "id": "aa6f4666724ffeca",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Mixin.md",
+      "styleAttributes": {},
+      "x": 1112,
+      "y": -480,
+      "width": 260,
+      "height": 300,
+      "color": "2"
+    },
+    {
+      "id": "cbfe9e3eaa54a895",
+      "type": "text",
+      "text": "# Научиться моддингу",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "collapsed": false,
+      "x": 342,
+      "y": -450,
+      "width": 250,
+      "height": 90,
+      "color": "1"
+    },
+    {
+      "id": "d02f88a615bc7122",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/FabricAPI.md",
+      "styleAttributes": {},
+      "x": 362,
+      "y": -260,
+      "width": 350,
+      "height": 300,
+      "color": "2"
+    },
+    {
+      "id": "099e55d3bc1afe72",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/DCO Начало работы (Quilt).md",
+      "styleAttributes": {},
+      "x": 1880,
+      "y": -1465,
+      "width": 480,
+      "height": 225
+    },
+    {
+      "id": "1172c73fa31434ce",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/DreamCraft Origins.md",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": -1280,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "63b6cbbf8c90a9cb",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/DreamCraft.md",
+      "styleAttributes": {},
+      "x": 1220,
+      "y": -1120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "916d958c63cb982e",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/DreamCraftExtras.md",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": -1090,
+      "width": 260,
+      "height": 210
+    },
+    {
+      "id": "e30af0240d6ef839",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Forge и Neoforge.md",
+      "styleAttributes": {},
+      "x": 802,
+      "y": -240,
+      "width": 260,
+      "height": 216,
+      "color": "2"
+    },
+    {
+      "id": "5ec0022708a701ca",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Создание еды Quilt.md",
+      "styleAttributes": {},
+      "x": 1629,
+      "y": 1020,
+      "width": 582,
+      "height": 411,
+      "color": "6"
+    },
+    {
+      "id": "701b9852d71570d9",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Создание первого предмета Quilt.md",
+      "styleAttributes": {},
+      "x": 729,
+      "y": 1196,
+      "width": 820,
+      "height": 470,
+      "color": "5"
+    },
+    {
+      "id": "7200f7427f09833d",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Создание первого блока Quilt.md",
+      "styleAttributes": {},
+      "x": 1589,
+      "y": 1601,
+      "width": 1140,
+      "height": 360,
+      "color": "6"
+    },
+    {
+      "id": "dcdde1893b94640c",
+      "type": "text",
+      "text": "[Создание брони](https://wiki.quiltmc.org/en/items/armor)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1660,
+      "y": 1461,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "c8e16bf47374f36f",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Создание проекта Quilt.md",
+      "styleAttributes": {},
+      "x": 340,
+      "y": 1261,
+      "width": 340,
+      "height": 440,
+      "color": "4"
+    },
+    {
+      "id": "9254a86ebc0f620c",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Создание проекта Fabric.md",
+      "styleAttributes": {},
+      "x": 580,
+      "y": 284,
+      "width": 503,
+      "height": 192,
+      "color": "4"
+    },
+    {
+      "id": "dc6d4cdb77fd6eff",
+      "type": "file",
+      "file": "01 - Projects/DreamCraft/Создание первого предмета Fabric.md",
+      "styleAttributes": {},
+      "x": 1161,
+      "y": 180,
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "edges": [
+    {
+      "id": "12d72f9899ccffc1",
+      "styleAttributes": {},
+      "fromNode": "63b6cbbf8c90a9cb",
+      "fromSide": "right",
+      "toNode": "1172c73fa31434ce",
+      "toSide": "left"
+    },
+    {
+      "id": "a15f4c8d5b92cc6b",
+      "styleAttributes": {},
+      "fromNode": "63b6cbbf8c90a9cb",
+      "fromSide": "right",
+      "toNode": "916d958c63cb982e",
+      "toSide": "left"
+    },
+    {
+      "id": "7591b5c43d69a190",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "1172c73fa31434ce",
+      "fromSide": "right",
+      "toNode": "099e55d3bc1afe72",
+      "toSide": "left"
+    },
+    {
+      "id": "a9fd3a7fb5b64dee",
+      "styleAttributes": {},
+      "fromNode": "1e26adb05d4ab95f",
+      "fromSide": "bottom",
+      "toNode": "c8327e95f0b2f1d5",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "178ff074a733eead",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cbfe9e3eaa54a895",
+      "fromSide": "bottom",
+      "toNode": "0d93fb4b4d204db3",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "a34e4d5966dc5676",
+      "styleAttributes": {
+        "pathfindingMethod": "square",
+        "arrow": null
+      },
+      "fromNode": "cbfe9e3eaa54a895",
+      "fromSide": "bottom",
+      "toNode": "d02f88a615bc7122",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "47d0b3b4379aaf21",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "0d93fb4b4d204db3",
+      "fromSide": "bottom",
+      "toNode": "173d3bf4eed59e02",
+      "toSide": "top",
+      "color": "2"
+    },
+    {
+      "id": "716eb744b9859fc6",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "173d3bf4eed59e02",
+      "fromSide": "bottom",
+      "toNode": "c8e16bf47374f36f",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "e4d6c7b7d5b4f739",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "173d3bf4eed59e02",
+      "fromSide": "left",
+      "toNode": "203ba4e3d33b23f8",
+      "toSide": "top",
+      "color": "3"
+    },
+    {
+      "id": "15fb4602db8f19e2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "c8e16bf47374f36f",
+      "fromSide": "right",
+      "toNode": "701b9852d71570d9",
+      "toSide": "left",
+      "color": "4"
+    },
+    {
+      "id": "48bad5fa0c810a65",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "701b9852d71570d9",
+      "fromSide": "right",
+      "toNode": "5ec0022708a701ca",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "9e96016cb967e657",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "701b9852d71570d9",
+      "fromSide": "right",
+      "toNode": "dcdde1893b94640c",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "f1eb24f6694439d9",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cbfe9e3eaa54a895",
+      "fromSide": "right",
+      "toNode": "eb2242a1efa6a54b",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "492c7d083ea3ff18",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "701b9852d71570d9",
+      "fromSide": "right",
+      "toNode": "7200f7427f09833d",
+      "toSide": "left",
+      "color": "5"
+    },
+    {
+      "id": "4f36cbee94441e76",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "d02f88a615bc7122",
+      "fromSide": "bottom",
+      "toNode": "173d3bf4eed59e02",
+      "toSide": "top",
+      "color": "2"
+    },
+    {
+      "id": "179771ec295b8420",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "916d958c63cb982e",
+      "fromSide": "bottom",
+      "toNode": "701b9852d71570d9",
+      "toSide": "top",
+      "color": "5"
+    },
+    {
+      "id": "c8f2f4a07cdefb3b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cbfe9e3eaa54a895",
+      "fromSide": "bottom",
+      "toNode": "e30af0240d6ef839",
+      "toSide": "top",
+      "color": "1"
+    },
+    {
+      "id": "900296860510719e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "cbfe9e3eaa54a895",
+      "fromSide": "right",
+      "toNode": "aa6f4666724ffeca",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "09eecd0de6107daf",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "173d3bf4eed59e02",
+      "fromSide": "right",
+      "toNode": "9254a86ebc0f620c",
+      "toSide": "left",
+      "color": "3"
+    },
+    {
+      "id": "7f2bc287698875be",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "9254a86ebc0f620c",
+      "fromSide": "right",
+      "toNode": "dc6d4cdb77fd6eff",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

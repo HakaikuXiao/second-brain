@@ -1,1 +1,14 @@
-{}
+{
+  "cssTheme": "AnuPpuccin",
+  "accentColor": "#65659a",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "cards",
+    "bp"
+  ]
+}
