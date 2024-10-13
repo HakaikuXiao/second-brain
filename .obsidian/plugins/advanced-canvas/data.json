@@ -9,9 +9,7 @@
   "combineCustomStylesInDropdown": false,
   "nodeStylingFeatureEnabled": true,
   "customNodeStyleAttributes": [],
-  "defaultTextNodeStyleAttributes": {
-    "textAlign": "center"
-  },
+  "defaultTextNodeStyleAttributes": {},
   "edgesStylingFeatureEnabled": true,
   "customEdgeStyleAttributes": [],
   "defaultEdgeStyleAttributes": {

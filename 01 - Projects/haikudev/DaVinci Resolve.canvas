@@ -1,0 +1,162 @@
+{
+  "nodes": [
+    {
+      "id": "93ee3991a1714c80",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -260,
+      "width": 1960,
+      "height": 780,
+      "color": "2",
+      "label": "Первые шаги"
+    },
+    {
+      "id": "2315af6e8406732b",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -180,
+      "width": 560,
+      "height": 560,
+      "color": "1",
+      "label": "Начало начал"
+    },
+    {
+      "id": "3d05c66e9fa601b0",
+      "type": "text",
+      "text": "# Скачивание и установка\nСкачать можно бесплатно с [официального сайта](https://www.blackmagicdesign.com/products/davinciresolve).\nУстановка не требует дополнительных знаний, хотя стоит учесть что **системные требования данной программы далеко не самые низкие**.\n\n",
+      "styleAttributes": {},
+      "x": 40,
+      "y": -160,
+      "width": 500,
+      "height": 260
+    },
+    {
+      "id": "90156a97e7fdf702",
+      "type": "text",
+      "text": "# Планы\n\n- Научиться монтировать так чтобы видео в тик-ток выделялись из всей массы.\n- Стать лучше.\n- Получить знания из совершенно новой сферы.",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 120,
+      "width": 500,
+      "height": 240
+    },
+    {
+      "id": "05a2c6c01bc126a8",
+      "type": "text",
+      "text": "# Источики исходников\n## Музыка\n[Musopen](https://musopen.org/music/) - каталог классической музыки которая не имеет авторских прав и является народным достоянием.\n",
+      "styleAttributes": {},
+      "x": 40,
+      "y": -1240,
+      "width": 717,
+      "height": 320
+    },
+    {
+      "id": "faf0e5f9aa2dcad7",
+      "type": "text",
+      "text": "# Создание проекта\nПри запуске сразу открывается проект. Поэтому его требуется только настроить.\n\nТак как я делаю видео для тик-ток мне нужен вертикальный формат и 60 фпс.\n\n",
+      "styleAttributes": {},
+      "x": 720,
+      "y": -240,
+      "width": 440,
+      "height": 280
+    },
+    {
+      "id": "3aeafb5ba9cb76ec",
+      "type": "text",
+      "text": "# Структура файлов и папок проекта\nСтандартная структура выглядит примерно так:\n![[Pasted image 20241009011956.png]]\n\nСоздать такую очень просто. Правый клик мыши в Master панели -> **Create Bin**.\n",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 60,
+      "width": 440,
+      "height": 440
+    },
+    {
+      "id": "15b4bc5c748ac185",
+      "type": "text",
+      "text": "# Создание базового таймлайна\n\nТак же правая кнопка в master -> **Create timeline**.\nСтоит импортировать или создать хотя бы одно видео для работы.\n![[Pasted image 20241009013326.png]]\nДостаточно создать простой тест в данной вкладке.\n",
+      "styleAttributes": {},
+      "x": 1300,
+      "y": -240,
+      "width": 600,
+      "height": 500
+    },
+    {
+      "id": "775b5a27f8422703",
+      "type": "text",
+      "text": "# Создание простейшего интро\n\nСначала нужно создать фон и импортировать файлы.\n\n",
+      "styleAttributes": {},
+      "x": 2120,
+      "y": -240,
+      "width": 460,
+      "height": 500
+    }
+  ],
+  "edges": [
+    {
+      "id": "4c3a8ae27047cce3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3d05c66e9fa601b0",
+      "fromSide": "bottom",
+      "toNode": "90156a97e7fdf702",
+      "toSide": "top"
+    },
+    {
+      "id": "d4d0d6125d073e75",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "2315af6e8406732b",
+      "fromSide": "right",
+      "toNode": "93ee3991a1714c80",
+      "toSide": "left",
+      "color": "1"
+    },
+    {
+      "id": "308fcf2a2bd44258",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "faf0e5f9aa2dcad7",
+      "fromSide": "bottom",
+      "toNode": "3aeafb5ba9cb76ec",
+      "toSide": "top"
+    },
+    {
+      "id": "e598b9c5b2cded1b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "faf0e5f9aa2dcad7",
+      "fromSide": "right",
+      "toNode": "15b4bc5c748ac185",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "9c84264f8b63a3a1",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "3aeafb5ba9cb76ec",
+      "fromSide": "right",
+      "toNode": "15b4bc5c748ac185",
+      "toSide": "left",
+      "color": "2"
+    },
+    {
+      "id": "e57ce7de8013b8c5",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "15b4bc5c748ac185",
+      "fromSide": "right",
+      "toNode": "775b5a27f8422703",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

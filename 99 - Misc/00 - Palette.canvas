@@ -1,0 +1,40 @@
+{
+  "nodes": [
+    {
+      "id": "76fe70b06472502e",
+      "type": "file",
+      "file": "99 - Misc/Catppuccin.md",
+      "styleAttributes": {},
+      "x": -167,
+      "y": -128,
+      "width": 260,
+      "height": 228,
+      "color": "1"
+    },
+    {
+      "id": "a5d978f25e73e234",
+      "type": "file",
+      "file": "99 - Misc/Base colors.md",
+      "styleAttributes": {},
+      "x": -167,
+      "y": -480,
+      "width": 260,
+      "height": 320,
+      "color": "2"
+    }
+  ],
+  "edges": [
+    {
+      "id": "3b6555c537c33af3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "76fe70b06472502e",
+      "fromSide": "top",
+      "toNode": "a5d978f25e73e234",
+      "toSide": "bottom",
+      "color": "1"
+    }
+  ],
+  "metadata": {}
+}

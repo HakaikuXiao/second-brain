@@ -6,11 +6,11 @@
   "fontColor": "white",
   "side": "bottom-right",
   "enabled": true,
-  "backgroundColor": "#f3f0e933",
-  "groupColor": "#bdd5de55",
+  "backgroundColor": "#1e1e2e00",
+  "groupColor": "#1e1e2e99",
   "nodeColor": "#c3d6d7",
-  "hijackToolbar": true,
-  "drawActiveViewport": true,
+  "hijackToolbar": false,
+  "drawActiveViewport": false,
   "primaryNavigationStrategy": "ZOOM",
   "secondaryNavigationStrategy": "PAN"
 }
