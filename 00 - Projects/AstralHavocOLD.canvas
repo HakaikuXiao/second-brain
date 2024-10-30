@@ -1,0 +1,371 @@
+{
+  "nodes": [
+    {
+      "id": "530668bd46156fac",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 240,
+      "y": -560,
+      "width": 1440,
+      "height": 1240,
+      "color": "2",
+      "label": "Code"
+    },
+    {
+      "id": "f02a6b99a7f0199b",
+      "type": "text",
+      "text": "# Loader\nАсинхронный загрузчик сцен в игре.",
+      "styleAttributes": {},
+      "x": 320,
+      "y": 26,
+      "width": 300,
+      "height": 160,
+      "color": "2"
+    },
+    {
+      "id": "299b1e5b058855ac",
+      "type": "text",
+      "text": "# Logger\nСистема для вывода информации в консоль",
+      "styleAttributes": {},
+      "x": 320,
+      "y": -500,
+      "width": 300,
+      "height": 140,
+      "color": "2"
+    },
+    {
+      "id": "5e54ab001605105e",
+      "type": "text",
+      "text": "# Main Scene\nОсновная сцена игры\n\nВ ней хранятся все остальные компоненты",
+      "styleAttributes": {},
+      "x": 320,
+      "y": -340,
+      "width": 300,
+      "height": 192,
+      "color": "2"
+    },
+    {
+      "id": "041d3edf2fe7067a",
+      "type": "text",
+      "text": "# On-start loader\nЗагрузчик основных компонентов. В данный момент только Экрана загрузки и главного меню",
+      "styleAttributes": {},
+      "x": 740,
+      "y": -340,
+      "width": 460,
+      "height": 192
+    },
+    {
+      "id": "9425d70f3a8647d2",
+      "type": "text",
+      "text": "# On start system info header\nВыводит в консоль информацию о системе",
+      "styleAttributes": {},
+      "x": 740,
+      "y": -540,
+      "width": 460,
+      "height": 175
+    },
+    {
+      "id": "2466c70a187942d3",
+      "type": "text",
+      "text": "# Grain\nЭффект шума поверх всего в игре",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -105,
+      "width": 260,
+      "height": 131
+    },
+    {
+      "id": "8c9b12dd6af36622",
+      "type": "text",
+      "text": "# Splash screen\nЭкран загрузки который на 2 секунды показывает логотип разраба",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": -450,
+      "width": 360,
+      "height": 170
+    },
+    {
+      "id": "6186b84b88d0fe5f",
+      "type": "text",
+      "text": "# Global input\nГлобальный ввод с момента запуска игры",
+      "styleAttributes": {},
+      "x": 320,
+      "y": 249,
+      "width": 300,
+      "height": 151,
+      "color": "2"
+    },
+    {
+      "id": "667a180631d604bb",
+      "type": "text",
+      "text": "# Global variable\nГлобальные переменные",
+      "styleAttributes": {},
+      "x": 320,
+      "y": 440,
+      "width": 300,
+      "height": 160,
+      "color": "2"
+    },
+    {
+      "id": "038937f872a704e6",
+      "type": "text",
+      "text": "# Main Menu\nГлавное меню игры",
+      "styleAttributes": {},
+      "x": 1385,
+      "y": -148,
+      "width": 250,
+      "height": 120
+    },
+    {
+      "id": "88e8c0e2e1224fa7",
+      "type": "text",
+      "text": "# Nickname prompt\nПоказывает окно ввода никнейма если он не был указан ранее\n",
+      "styleAttributes": {},
+      "x": 1380,
+      "y": 35,
+      "width": 260,
+      "height": 244
+    },
+    {
+      "id": "b943cc549b94089f",
+      "type": "text",
+      "text": "# Palette\n# UI\n**BG**: #1e1e2eff\n**SecondBG**: #313244ff\n**Text**: #cdd6f4ff\n**Accent**: #94e2d5ff",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -1102,
+      "width": 560,
+      "height": 740
+    },
+    {
+      "id": "9f979db93c3a5600",
+      "type": "text",
+      "text": "# Звук\n",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": -340,
+      "y": -362,
+      "width": 200,
+      "height": 100
+    },
+    {
+      "id": "8dfa8a726879c209",
+      "type": "text",
+      "text": "# Astral Havoc\nRoguelike шутер В стиле карт Таро и современной манхвы об \"Системах\" ",
+      "styleAttributes": {
+        "textAlign": null,
+        "shape": "database",
+        "border": null
+      },
+      "x": -850,
+      "y": -213,
+      "width": 360,
+      "height": 176,
+      "color": "1"
+    },
+    {
+      "id": "7ae63162dbd44e02",
+      "type": "text",
+      "text": "# Графика",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": -340,
+      "y": -242,
+      "width": 200,
+      "height": 100
+    },
+    {
+      "id": "39191aafbfdd61af",
+      "type": "text",
+      "text": "# Код\n",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "diamond"
+      },
+      "x": -340,
+      "y": -125,
+      "width": 200,
+      "height": 100,
+      "color": "2"
+    },
+    {
+      "id": "45a8a36b35b5cc23",
+      "type": "text",
+      "text": "# Лор\n",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "diamond"
+      },
+      "x": -340,
+      "y": 1,
+      "width": 200,
+      "height": 100
+    }
+  ],
+  "edges": [
+    {
+      "id": "4f4492445ed30522",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8dfa8a726879c209",
+      "fromSide": "right",
+      "toNode": "39191aafbfdd61af",
+      "toSide": "left"
+    },
+    {
+      "id": "0ff9eb46fde3b257",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8dfa8a726879c209",
+      "fromSide": "right",
+      "toNode": "9f979db93c3a5600",
+      "toSide": "left"
+    },
+    {
+      "id": "614c1e73a1b3475c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8dfa8a726879c209",
+      "fromSide": "right",
+      "toNode": "7ae63162dbd44e02",
+      "toSide": "left"
+    },
+    {
+      "id": "1e6e1f7e2cdf7c96",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "8dfa8a726879c209",
+      "fromSide": "right",
+      "toNode": "45a8a36b35b5cc23",
+      "toSide": "left"
+    },
+    {
+      "id": "c5ebc122276aaaa0",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5e54ab001605105e",
+      "fromSide": "right",
+      "toNode": "9425d70f3a8647d2",
+      "toSide": "left"
+    },
+    {
+      "id": "89e77e291095a02b",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "39191aafbfdd61af",
+      "fromSide": "right",
+      "toNode": "530668bd46156fac",
+      "toSide": "left"
+    },
+    {
+      "id": "715217ccb2316bb2",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "299b1e5b058855ac",
+      "fromSide": "left",
+      "toNode": "f02a6b99a7f0199b",
+      "toSide": "left"
+    },
+    {
+      "id": "7d5e51b1f70f7029",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5e54ab001605105e",
+      "fromSide": "right",
+      "toNode": "041d3edf2fe7067a",
+      "toSide": "left"
+    },
+    {
+      "id": "9db9dfa65dc27ee0",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "f02a6b99a7f0199b",
+      "fromSide": "right",
+      "toNode": "041d3edf2fe7067a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "121954f008792ee4",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "041d3edf2fe7067a",
+      "fromSide": "right",
+      "toNode": "8c9b12dd6af36622",
+      "toSide": "left"
+    },
+    {
+      "id": "d412b9e1204b437e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "041d3edf2fe7067a",
+      "fromSide": "right",
+      "toNode": "038937f872a704e6",
+      "toSide": "left"
+    },
+    {
+      "id": "39e86429f59cf61e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "5e54ab001605105e",
+      "fromSide": "right",
+      "toNode": "2466c70a187942d3",
+      "toSide": "left"
+    },
+    {
+      "id": "d601f83b8ce24f61",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "038937f872a704e6",
+      "fromSide": "bottom",
+      "toNode": "88e8c0e2e1224fa7",
+      "toSide": "top"
+    },
+    {
+      "id": "25b1370d2cc1cee7",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "88e8c0e2e1224fa7",
+      "fromSide": "right",
+      "toNode": "038937f872a704e6",
+      "toSide": "right"
+    },
+    {
+      "id": "3bfab1309df6431c",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "667a180631d604bb",
+      "fromSide": "right",
+      "toNode": "88e8c0e2e1224fa7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "137d2868cc346a3e",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "667a180631d604bb",
+      "fromSide": "right",
+      "toNode": "038937f872a704e6",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}

@@ -6,7 +6,7 @@
   "defaultFileNodeWidth": 400,
   "defaultFileNodeHeight": 400,
   "performanceOptimizationEnabled": false,
-  "combineCustomStylesInDropdown": false,
+  "combineCustomStylesInDropdown": true,
   "nodeStylingFeatureEnabled": true,
   "customNodeStyleAttributes": [],
   "defaultTextNodeStyleAttributes": {},
